@@ -8,6 +8,9 @@ import Main.HelloWorld;
 
 public class HelloWorldTest {
 
+  /**
+   * Just adding some javadoc
+   */
   @Test
   public void testHelloWorld() {
     String s = HelloWorld.HelloWorld();
