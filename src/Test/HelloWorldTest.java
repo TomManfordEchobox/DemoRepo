@@ -14,7 +14,7 @@ public class HelloWorldTest {
   @Test
   public void testHelloWorld() {
     String s = HelloWorld.HelloWorld();
-    if (s == "Hello World"){
+    if (s != "Hello World"){
       fail("Result should be \"Hello World\"");
     }
   }
