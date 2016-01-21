@@ -9,7 +9,7 @@ import Main.HelloWorld;
 public class HelloWorldTest {
 
   /**
-   * Just adding some javadoc
+   * Just adding some javadoc, and some more 
    */
   @Test
   public void testHelloWorld() {
